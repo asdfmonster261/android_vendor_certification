@@ -1,15 +1,16 @@
 {
     "MANUFACTURER": "Google",
-    "MODEL": "Pixel 10 Pro XL",
-    "FINGERPRINT": "google/mustang/mustang:17/CP3A.260905.009/16091614:user/release-keys",
+    "MODEL": "Pixel 11 Pro Fold",
+    "FINGERPRINT": "google/yogi/yogi:17/CD1A.261005.003/16262255:user/release-keys",
     "BRAND": "google",
-    "PRODUCT": "mustang",
-    "DEVICE": "mustang",
-    "HARDWARE": "mustang",
+    "PRODUCT": "yogi",
+    "DEVICE": "yogi",
+    "HARDWARE": "yogi",
     "VERSION.RELEASE": "17",
-    "ID": "CP3A.260905.009",
-    "VERSION.INCREMENTAL": "16091614",
+    "ID": "CD1A.261005.003",
+    "VERSION.INCREMENTAL": "16262255",
     "TYPE": "user",
     "TAGS": "release-keys",
-    "VERSION.DEVICE_INITIAL_SDK_INT": "32"
+    "VERSION.SECURITY_PATCH": "2026-10-05",
+    "VERSION.DEVICE_INITIAL_SDK_INT": "37"
 }
